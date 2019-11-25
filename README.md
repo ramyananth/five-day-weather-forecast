@@ -28,4 +28,6 @@ References:
 
 2. https://medium.com/@andrewchandev/weather-api-47a44354b54b
 
-3. Hamza Mirza - Youtube
+3. https://openweathermap.org/forecast5#name5
+
+4. Hamza Mirza - Youtube
