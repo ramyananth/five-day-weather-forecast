@@ -11,13 +11,21 @@ Environment:
 
 Process of creation:
 
-Step 1: Install node, npm and npx
+1. Install node, npm and npx
 
-Step 2: Import create-react-app weather-app
+2. Import create-react-app weather-app
 
-Step 3: npm start on terminal to check if the app loads on http://localhost:3000/
+3. npm start on terminal to check if the app loads on http://localhost:3000/
 
-Step 4: npm run eject on terminal to clear all data and create a new app 
+4. npm run eject on terminal to clear all data and create a new app 
 
-Step 5: Develop!
+5. Develop!
 
+
+References:
+
+1. https://medium.com/pixels-in-progress/a-simple-weather-app-with-react-16a49e89b539
+
+2. https://medium.com/@andrewchandev/weather-api-47a44354b54b
+
+3. Hamza Mirza - Youtube
